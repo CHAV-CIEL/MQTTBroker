@@ -1,0 +1,105 @@
+1744707928: mosquitto version 2.0.21 starting
+1744707928: Config loaded from /mosquitto/config/mosquitto.conf.
+1744707928: Opening ipv4 listen socket on port 1883.
+1744707928: Opening ipv6 listen socket on port 1883.
+1744707928: mosquitto version 2.0.21 running
+1744707945: New connection from 172.20.0.1:35346 on port 1883.
+1744707945: New client connected from 172.20.0.1:35346 as postman-mqtt-client-1744707565200 (p5, c0, k60).
+1744707945: No will message specified.
+1744707945: Sending CONNACK to postman-mqtt-client-1744707565200 (0, 0)
+1744707945: Received SUBSCRIBE from postman-mqtt-client-1744707565200
+1744707945: 	myTopic (QoS 0)
+1744707945: postman-mqtt-client-1744707565200 0 myTopic
+1744707945: Sending SUBACK to postman-mqtt-client-1744707565200
+1744707950: Client postman-mqtt-client-1744707565200 closed its connection.
+1744875122: mosquitto version 2.0.21 starting
+1744875122: Config loaded from /mosquitto/config/mosquitto.conf.
+1744875122: Opening ipv4 listen socket on port 1883.
+1744875122: Opening ipv6 listen socket on port 1883.
+1744875122: mosquitto version 2.0.21 running
+1744875498: mosquitto version 2.0.21 terminating
+1746513176: mosquitto version 2.0.21 starting
+1746513176: Config loaded from /mosquitto/config/mosquitto.conf.
+1746513176: Opening ipv4 listen socket on port 1883.
+1746513176: Opening ipv6 listen socket on port 1883.
+1746513176: mosquitto version 2.0.21 running
+1746513301: New connection from 172.18.0.1:34438 on port 1883.
+1746513301: Client <unknown> disconnected due to protocol error.
+1746513301: New connection from 172.18.0.1:34442 on port 1883.
+1746513301: Client <unknown> disconnected due to protocol error.
+1746513301: New connection from 172.18.0.1:34446 on port 1883.
+1746513301: New connection from 172.18.0.1:34450 on port 1883.
+1746513302: Client <unknown> disconnected due to protocol error.
+1746513302: Client <unknown> disconnected due to protocol error.
+1746513302: New connection from 172.18.0.1:34454 on port 1883.
+1746513302: Client <unknown> disconnected due to protocol error.
+1746513698: mosquitto version 2.0.21 terminating
+1746513699: mosquitto version 2.0.21 starting
+1746513699: Config loaded from /mosquitto/config/mosquitto.conf.
+1746513699: Opening ipv4 listen socket on port 1883.
+1746513699: Opening ipv6 listen socket on port 1883.
+1746513699: mosquitto version 2.0.21 running
+1746513703: mosquitto version 2.0.21 terminating
+1746513703: mosquitto version 2.0.21 starting
+1746513703: Config loaded from /mosquitto/config/mosquitto.conf.
+1746513703: Opening ipv4 listen socket on port 1883.
+1746513703: Opening ipv6 listen socket on port 1883.
+1746513703: mosquitto version 2.0.21 running
+1746513788: New connection from 172.18.0.1:34456 on port 1883.
+1746513788: New client connected from 172.18.0.1:34456 as postman-mqtt-client-1746513788333 (p5, c1, k60).
+1746513788: No will message specified.
+1746513788: Sending CONNACK to postman-mqtt-client-1746513788333 (0, 0)
+1746513847: Received SUBSCRIBE from postman-mqtt-client-1746513788333
+1746513847: 	myTopic (QoS 0)
+1746513847: postman-mqtt-client-1746513788333 0 myTopic
+1746513847: Sending SUBACK to postman-mqtt-client-1746513788333
+1746513870: Client postman-mqtt-client-1746513788333 closed its connection.
+1746514426: New connection from 172.18.0.1:34458 on port 1883.
+1746514426: New client connected from 172.18.0.1:34458 as postman-mqtt-client-1746514426047 (p5, c1, k60).
+1746514426: No will message specified.
+1746514426: Sending CONNACK to postman-mqtt-client-1746514426047 (0, 0)
+1746514426: Received SUBSCRIBE from postman-mqtt-client-1746514426047
+1746514426: 	myTopic (QoS 0)
+1746514426: postman-mqtt-client-1746514426047 0 myTopic
+1746514426: Sending SUBACK to postman-mqtt-client-1746514426047
+1746514486: Received PINGREQ from postman-mqtt-client-1746514426047
+1746514486: Sending PINGRESP to postman-mqtt-client-1746514426047
+1746514507: Client postman-mqtt-client-1746514426047 closed its connection.
+1746515073: New connection from 172.18.0.1:34460 on port 1883.
+1746515073: New client connected from 172.18.0.1:34460 as postman-mqtt-client-1746515073527 (p5, c1, k60).
+1746515073: No will message specified.
+1746515073: Sending CONNACK to postman-mqtt-client-1746515073527 (0, 0)
+1746515073: Received SUBSCRIBE from postman-mqtt-client-1746515073527
+1746515073: 	myTopic (QoS 0)
+1746515073: postman-mqtt-client-1746515073527 0 myTopic
+1746515073: Sending SUBACK to postman-mqtt-client-1746515073527
+1746515106: Client postman-mqtt-client-1746515073527 closed its connection.
+1746515122: New connection from 172.18.0.1:34462 on port 1883.
+1746515122: New client connected from 172.18.0.1:34462 as postman-mqtt-client-1746515073527 (p5, c1, k60).
+1746515122: No will message specified.
+1746515122: Sending CONNACK to postman-mqtt-client-1746515073527 (0, 0)
+1746515123: Client postman-mqtt-client-1746515073527 closed its connection.
+1746515253: New connection from 172.18.0.1:34464 on port 1883.
+1746515253: New client connected from 172.18.0.1:34464 as postman-mqtt-client-1746515073527 (p5, c1, k60).
+1746515253: No will message specified.
+1746515253: Sending CONNACK to postman-mqtt-client-1746515073527 (0, 0)
+1746515253: Client postman-mqtt-client-1746515073527 closed its connection.
+1746515261: New connection from 172.18.0.1:34466 on port 1883.
+1746515261: New client connected from 172.18.0.1:34466 as postman-mqtt-client-1746515073527 (p5, c1, k60).
+1746515261: No will message specified.
+1746515261: Sending CONNACK to postman-mqtt-client-1746515073527 (0, 0)
+1746515261: Client postman-mqtt-client-1746515073527 closed its connection.
+1746515404: New connection from 172.18.0.1:34468 on port 1883.
+1746515404: New client connected from 172.18.0.1:34468 as postman-mqtt-client-1746515404784 (p5, c1, k60).
+1746515404: No will message specified.
+1746515404: Sending CONNACK to postman-mqtt-client-1746515404784 (0, 0)
+1746515404: Received SUBSCRIBE from postman-mqtt-client-1746515404784
+1746515404: 	myTopic (QoS 0)
+1746515404: postman-mqtt-client-1746515404784 0 myTopic
+1746515404: Sending SUBACK to postman-mqtt-client-1746515404784
+1746515410: Client postman-mqtt-client-1746515404784 closed its connection.
+1746515428: New connection from 172.18.0.1:34470 on port 1883.
+1746515428: New client connected from 172.18.0.1:34470 as postman-mqtt-client-1746515404784 (p5, c1, k60).
+1746515428: No will message specified.
+1746515428: Sending CONNACK to postman-mqtt-client-1746515404784 (0, 0)
+1746515428: Client postman-mqtt-client-1746515404784 closed its connection.
